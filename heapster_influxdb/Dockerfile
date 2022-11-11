@@ -1,2 +1,2 @@
-FROM kubernetes/heapster_influxdb:v0.6
+FROM alvintz/heapster_influxdb:v0.7
 MAINTAINER Q
