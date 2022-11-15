@@ -1,2 +1,2 @@
-FROM grafana/grafana:9.2.4
+FROM grafana/grafana:6.6.1
 MAINTAINER Q
