@@ -1,2 +1,2 @@
-FROM bitnami/kube-state-metrics:2.6.0
+FROM bitnami/kube-state-metrics:2.3.0
 MAINTAINER Q
